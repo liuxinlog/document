@@ -7,4 +7,4 @@
 - 2
 - 3
 
-[Getting Started](index.html)
+[Getting Started](headline)
