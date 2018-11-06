@@ -1,4 +1,4 @@
-_coverpage.md
+
 # first <small>0.0.1</small>
 
 > 我应该写点什么.
@@ -7,4 +7,4 @@ _coverpage.md
 - 2
 - 3
 
-[Getting Started](#docsify)
+[Getting Started](index.html)
